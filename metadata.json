@@ -1,0 +1,7 @@
+{
+  "name": "ScanTranslate Pro",
+  "description": "Production-grade scanned PDF and image translation engine with structure preservation.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
